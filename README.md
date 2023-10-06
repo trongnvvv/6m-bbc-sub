@@ -1,6 +1,5 @@
 # Links
-- https://trongnvvv.github.io/6m-bbc-sub/how-fans-talk-about-their-passions.html
-- https://trongnvvv.github.io/6m-bbc-sub/making-male-friends.html
-- https://trongnvvv.github.io/6m-bbc-sub/sounds-that-make-you-want-to-scream.html
-- https://trongnvvv.github.io/6m-bbc-sub/saving-dead-languages.html
-- [test](./FOLDER_NAME/FOLDERFILE.md)
+- [how-fans-talk-about-their-passions.html](https://trongnvvv.github.io/6m-bbc-sub/how-fans-talk-about-their-passions.html)
+- [making-male-friends.html](https://trongnvvv.github.io/6m-bbc-sub/making-male-friends.html)
+- [sounds-that-make-you-want-to-scream.html](https://trongnvvv.github.io/6m-bbc-sub/sounds-that-make-you-want-to-scream.html)
+- [saving-dead-languages.html](https://trongnvvv.github.io/6m-bbc-sub/saving-dead-languages.html)
